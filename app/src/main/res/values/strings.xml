@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Accesibility</string>
+    
+    <string name="health_overview">Resumen de salud</string>
+    <string name="text_label_name">Nombre</string>
+    <string name="text_label_race">Raza</string>
+    <string name="text_label_gender">Género</string>
+    
+    <string name="profile_content_description">Foto de perfil del perrito</string>
+
+    <string name="text_name">Koda Negron</string>
+    <string name="text_race">Husky</string>
+</resources>
